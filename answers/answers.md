@@ -74,7 +74,8 @@ Now let's extract the zip file content and see the data we see that it has given
 
 ![image](https://user-images.githubusercontent.com/5527552/215386734-8f371521-7f07-4aa4-ad7e-a432ba222dff.png)
 
-We can analyze the code and check what this powershell script is doing once it is been executed.
+We can analyze the above code and try to understand the working before deep diving into more analysis.
+
 ---
 
 **Question:** What is the callback port number at detonation?
